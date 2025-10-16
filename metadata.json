@@ -1,0 +1,5 @@
+{
+  "name": "Monitoring CT",
+  "description": "An application to calculate loader productivity, hauler productivity, and match factor for mining operations.",
+  "requestFramePermissions": []
+}
